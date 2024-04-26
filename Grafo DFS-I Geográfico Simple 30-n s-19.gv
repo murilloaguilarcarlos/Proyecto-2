@@ -1,0 +1,26 @@
+digraph sample {
+9 [color="#e6e6cf"];
+10 [color="#45b8a1"];
+4 [color="#e6a1fd"];
+19 [color="#e6e6cf"];
+23 [color="#e6e6cf"];
+13 [color="#e6e6cf"];
+13 [color="#45b8a1"];
+14 [color="#45b8a1"];
+27 [color="#45b8a1"];
+14 [color="#e6a1fd"];
+30 [color="#e6a1fd"];
+7 [color="#e6a1fd"];
+22 [color="#45b8a1"];
+4 -> 7[color="black"];
+4 -> 14[color="black"];
+4 -> 30[color="black"];
+9 -> 13[color="black"];
+9 -> 19[color="black"];
+9 -> 23[color="black"];
+10 -> 13[color="black"];
+10 -> 14[color="black"];
+10 -> 22[color="black"];
+14 -> 27[color="black"];
+21 -> 30[color="black"];
+}

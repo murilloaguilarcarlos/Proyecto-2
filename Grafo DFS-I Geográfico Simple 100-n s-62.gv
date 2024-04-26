@@ -1,0 +1,9 @@
+digraph sample {
+17 [color="#2ee600"];
+62 [color="#2ee600"];
+86 [color="#2ee600"];
+87 [color="#2ee600"];
+17 -> 62[color="black"];
+17 -> 86[color="black"];
+86 -> 87[color="black"];
+}
